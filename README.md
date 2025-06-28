@@ -4,4 +4,5 @@ This Gym Membership Management System is a computer program that helps a gym kee
 - RegularMember: This is for normal members who pay the standard fee and get basic access to the gym.
 - PremiumMember: This is for special members who pay more to get extra benefits, such as access to special classes or discounts.
 - GymGUI: This is the part of the program you see and click on. It lets the gym staff easily add, update, or remove members and manage their information.
+  
 In short, the program makes it simple for the gym to organize all its members and their details.
