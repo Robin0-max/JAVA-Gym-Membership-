@@ -47,7 +47,7 @@ No need to navigate confusing text files — the GUI handles everything behind t
 ---
 
 ## 🛠️ Technologies Used
-- Java (OOP Concepts: Inheritance, Polymorphism, Abstraction)
+- Java (OOP Concepts: Inheritance, Polymorphism, Abstraction, Encapsulation)
 - Java Swing (GUI Design)
 - BlueJ
 
