@@ -1,1 +1,7 @@
-Gym Membership Management System (Java Desktop App): This Gym Membership Management System is a Java desktop application that utilizes four core classes to efficiently manage gym memberships. At its foundation, the abstract GymMember class defines the common properties and behaviors shared by all members, ensuring a consistent structure. Two subclasses, RegularMember and PremiumMember, inherit from GymMember and represent different membership tiers, each with their own specific features and benefits—such as premium discounts or access to exclusive facilities for PremiumMember. The GymGUI class leverages Java Swing to provide a user-friendly graphical interface, allowing gym staff to add, update, or remove members, process payments, and perform other management tasks. Together, these classes create a modular and extensible system for handling all aspects of gym member administration.
+This Gym Membership Management System is a computer program that helps a gym keep track of its members. It uses four main parts:
+
+- GymMember: This is like a basic template for any gym member. It has the usual details that every member needs, like name, ID, and birthday.
+- RegularMember: This is for normal members who pay the standard fee and get basic access to the gym.
+- PremiumMember: This is for special members who pay more to get extra benefits, such as access to special classes or discounts.
+- GymGUI: This is the part of the program you see and click on. It lets the gym staff easily add, update, or remove members and manage their information.
+In short, the program makes it simple for the gym to organize all its members and their details.
